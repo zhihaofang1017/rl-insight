@@ -14,7 +14,7 @@ and visualization.
    :caption: Overview
 
    insight_framework
-   cluster_analyse
+   cluster_analysis
 
 .. toctree::
    :maxdepth: 1

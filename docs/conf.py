@@ -16,9 +16,9 @@
 
 
 # -- Project information -----------------------------------------------------
-project = "rl-insight"
-copyright = "2026 rl-insight contributors"
-author = "rl-insight community"
+project = "RL-Insight"
+copyright = "2026 RL-Insight Contributors"
+author = "RL-Insight Community"
 
 # -- General configuration ---------------------------------------------------
 # The master toctree document.
