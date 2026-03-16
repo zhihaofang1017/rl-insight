@@ -1,7 +1,7 @@
-Welcome to rl-insight's documentation!
+Welcome to RL-Insight's documentation!
 ========================
 
-rl-insight is a performance insight and observability toolkit for reinforcement learning (RL) systems.
+RL-Insight is a performance insight and observability toolkit for reinforcement learning (RL) systems.
 It focuses on analyzing offline cluster logs first, and is evolving towards full-stack online monitoring
 and visualization.
 
@@ -25,7 +25,7 @@ and visualization.
 Contribution
 -------------
 
-rl-insight is free software; you can redistribute it and/or modify it under the terms
+RL-Insight is free software; you can redistribute it and/or modify it under the terms
 of the Apache License 2.0. We welcome contributions.
 Join us on `GitHub <https://github.com/verl-project/rl-insight>`_ for discussions.
 
