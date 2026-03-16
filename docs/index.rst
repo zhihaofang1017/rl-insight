@@ -27,7 +27,7 @@ Contribution
 
 rl-insight is free software; you can redistribute it and/or modify it under the terms
 of the Apache License 2.0. We welcome contributions.
-Join us on `GitHub <https://github.com/verl-project/rl-insight>`_for discussions.
+Join us on `GitHub <https://github.com/verl-project/rl-insight>`_ for discussions.
 
 Contributions from the community are welcome! Please check out our `project roadmap <https://github.com/verl-project/rl-insight/issues/6>`_ and `good first issues <https://github.com/verl-project/rl-insight/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22>`_ to see where you can contribute.
 
